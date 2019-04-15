@@ -1,0 +1,17 @@
+{
+  "name": "mocha-practice",
+  "version": "1.0.0",
+  "description": "Practice various Mocha testing techniques and features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "0b10",
+  "license": "Unlicense",
+  "dependencies": {
+    "mocha": "^6.1.3"
+  }
+}
